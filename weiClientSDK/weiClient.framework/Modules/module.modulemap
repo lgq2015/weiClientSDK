@@ -1,0 +1,6 @@
+framework module weiClient {
+  umbrella header "weiClient.h"
+
+  export *
+  module * { export * }
+}
