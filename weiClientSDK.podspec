@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.homepage = "https://github.com/lgq2015/weiClientSDK.git"
     s.author   = { 'lgq' => 'liangguoqiang235@gmail.com' }
     s.social_media_url = "http://weibo.com/xzjxylophone"
-    s.source   = { :git => 'https://github.com/lgq2015/weiClientSDK.git', :tag => "v#{s.version}" }
+    s.source   = { :git => 'https://github.com/lgq2015/weiClientSDK.git'" }
     s.description = %{
         weiClientSDK is a framework.
     }
