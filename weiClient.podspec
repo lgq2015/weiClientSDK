@@ -8,7 +8,7 @@
     s.homepage = "https://github.com/lgq2015/weiClient.git"
     s.author   = { 'lgq' => 'liangguoqiang235@gmail.com' }
     s.social_media_url = "http://weibo.com/xzjxylophone"
-    s.source   = { :git => 'https://github.com/lgq2015/weiClient.git'" }
+    s.source   = { :git => 'https://github.com/lgq2015/weiClient.git' }
     s.description = %{
         weiClient is a framework.
     }
