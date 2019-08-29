@@ -2,7 +2,7 @@
 
  Pod::Spec.new do |s|
     s.name     = "weiClient"
-    s.version  = "1.0"
+    s.version  = "5.0"
     s.license  = "MIT"
     s.summary  = "weiClient is a framework"
     s.homepage = "https://github.com/lgq2015/weiClient.git"
